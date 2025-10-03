@@ -1,0 +1,26 @@
+{
+  "name": "shop-parser",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "dev": "node --watch app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maksymaf/shop-parser.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maksymaf/shop-parser/issues"
+  },
+  "homepage": "https://github.com/maksymaf/shop-parser#readme",
+  "description": "",
+  "dependencies": {
+    "axios": "^1.12.2",
+    "cheerio": "^1.1.2",
+    "cors": "^2.8.5",
+    "express": "^5.1.0"
+  }
+}
